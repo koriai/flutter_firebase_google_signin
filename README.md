@@ -1,4 +1,4 @@
-# flutter_google_sample
+# Flutter_firebase_google_signin
 Flutter (플러터) 구글 로그인 샘플입니다.
 + firebase 
 
