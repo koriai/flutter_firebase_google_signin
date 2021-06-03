@@ -17,5 +17,5 @@ flutter version: 2.2.0 (2021.06.03)
 firebase와 연결시: firebase project
 
 
-# 참고자료
+## 참고자료
 https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/
